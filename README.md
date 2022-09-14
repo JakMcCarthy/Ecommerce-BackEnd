@@ -28,6 +28,6 @@ Susan, Ricky, Sarah, Chris, Jackson, Aaron
 
 ## Repository: https://github.com/JakMcCarthy/Ecommerce-BackEnd
 
-## Deployed Link: https://bckendcommrce.herokuapp.com/
+## Heroku Link: https://bckendcommrce.herokuapp.com/
 
 ## Contact: If you have any questioins please contact the team at jak.mcc23@gmail.com or visit the repository with the linnk provided. 
