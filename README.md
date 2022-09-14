@@ -23,7 +23,7 @@ Mock-Up
 ## Study Group
 Susan, Ricky, Sarah, Chris, Jackson, Aaron
  
-## Web Demo: 
+## Insomnia Demo: https://drive.google.com/file/d/1xJNYvI-nlYTEhkP6jlFfzdzt5QD2YQPs/view
 
 ## Repository: https://github.com/JakMcCarthy/Ecommerce-BackEnd
 
