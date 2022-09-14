@@ -24,6 +24,7 @@ Mock-Up
 Susan, Ricky, Sarah, Chris, Jackson, Aaron
  
 ## Insomnia Demo: https://drive.google.com/file/d/1xJNYvI-nlYTEhkP6jlFfzdzt5QD2YQPs/view
+![](../../../Pictures/Screenshots/Screenshot%20(158).png)
 
 ## Repository: https://github.com/JakMcCarthy/Ecommerce-BackEnd
 
